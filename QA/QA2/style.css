@@ -468,7 +468,7 @@ footer {
 /* ====================
 スマートフォン用のスタイル
 ======================= */
-@media screen {
+@media screen and (max-width: 767px){
   /* PC用ナビゲーション非表示 */
   #nav-pc {
     display: none;
